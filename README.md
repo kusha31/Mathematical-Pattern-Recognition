@@ -12,4 +12,5 @@ The data is stored in a comma separated values file (.csv) with 50 attributes an
 This problem is then a 3-class classification problem.
 More information about the features can be found in a link provided on the dataset description page above, under the section "Attribute Information". More specifically, Table 1 is the most relevant http://www.hindawi.com/journals/bmri/2014/781670/tab1/
 
+The evaluation metric used if the mean F! score calculated from the confusion matrix.
 
